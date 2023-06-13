@@ -1,0 +1,6 @@
+pyttsx3
+SpeechRecognition
+requests
+pygame
+
+pip install -r requirements.txt
